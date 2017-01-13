@@ -16,6 +16,9 @@ like the _main_ Papers We Love repo,
 
 We follow the Papers We Love [Code of Conduct](code-of-conduct.md).
 
+We keep a [list of papers that we would like to talk about](paper_ideas.md).
+Send us pull requests to add your own!
+
 We also have a meetup group: https://www.meetup.com/Papers-we-love-Zurich/ for
 posting events, etc.
 
