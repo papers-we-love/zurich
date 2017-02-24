@@ -22,6 +22,26 @@ Send us pull requests to add your own!
 We also have a meetup group: https://www.meetup.com/Papers-we-love-Zurich/ for
 posting events, etc.
 
+### Upcoming meetups
+
+#### Naiad: A Timely Dataflow System
+
+* https://www.meetup.com/Papers-we-love-Zurich/events/237963794/
+* Thursday, March 23, 2017 6:30 PM
+* ETH Zürich (exact room TBD)
+
+Andrea Lattuada will (andreal@inf.ethz.ch) tell us all about Naiad: A Timely
+Dataflow System by Derek G. Murray, Frank McSherry, Rebecca Isaacs, Michael
+Isard, Paul Barham, and Martín Abadi.
+
+This paper proposes a very powerful computational model for dataflow programming
+designed to minimise unnecessary synchronisation. The idea is to have a system
+that can be the foundation for various data-processing frameworks that can
+interoperate. There is an open-source implementation in rust
+(https://github.com/frankmcsherry/timely-dataflow) by one of the authors. It was
+awarded a best paper award at SOSP 2013.
+
+
 ### Contact
 
 - Kornilios Kourtis | [GitHub](https://github.com/kkourt) | [Twitter](https://twitter.com/kkourt) | [Email](mailto:me@kkourt.io)
