@@ -1,0 +1,9 @@
+[package]
+name = "pwl"
+version = "0.1.0"
+
+[dependencies]
+abomonation = "*"
+time = "*"
+timely = "*"
+itertools = "0.5.9"
