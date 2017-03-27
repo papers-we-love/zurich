@@ -24,11 +24,28 @@ posting events, etc.
 
 ### Upcoming meetups
 
+#### The implementation of the Cilk-5 multithreaded language.
+
+* https://www.meetup.com/Papers-we-love-Zurich/events/238755473/
+* Thursday, April 27, 2017 6:30 PM
+* ETH Zürich, CAB H 52
+
+This time we are going to talk about an older paper. Published in 1998 by Matteo
+Frigo, Charles E. Leiserson, and Keith H. Randall,  The implementation of the
+Cilk-5 multithreaded language
+([pdf](http://supertech.csail.mit.edu/papers/cilk5.pdf))  is about expressing
+parallel programs and building a run-time system that efficiently executes them.
+The paper is strongly motivated by theory, but also very practical. Many of the
+techniques and approaches used in the paper are (I think) still relevant today.
+
+### Past meetups
+
 #### Naiad: A Timely Dataflow System
 
 * https://www.meetup.com/Papers-we-love-Zurich/events/237963794/
 * Thursday, March 23, 2017 6:30 PM
-* ETH Zürich (exact room TBD)
+* ETH Zürich, CAB H 52
+* [slides](2017.03.26-Naiad/naiad-pwl-zurich.pdf), [demo](2017.03.26-Naiad/demo)
 
 Andrea Lattuada will (andreal@inf.ethz.ch) tell us all about Naiad: A Timely
 Dataflow System by Derek G. Murray, Frank McSherry, Rebecca Isaacs, Michael
@@ -44,4 +61,6 @@ awarded a best paper award at SOSP 2013.
 
 ### Contact
 
-- Kornilios Kourtis | [GitHub](https://github.com/kkourt) | [Twitter](https://twitter.com/kkourt) | [Email](mailto:me@kkourt.io)
+- Kornilios Kourtis | [GitHub](https://github.com/kkourt) | [Twitter](https://twitter.com/kkourt)
+- Vasia Kalavri     | [GitHub](https://github.com/vasia)  | [Twitter](https://twitter.com/vkalavri)
+- Andrea Lattuada   | [GitHub](https://github.com/utaal)  | [Twitter](https://twitter.com/utaal)
