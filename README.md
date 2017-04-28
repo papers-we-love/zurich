@@ -24,11 +24,14 @@ posting events, etc.
 
 ### Upcoming meetups
 
+### Past meetups
+
 #### The implementation of the Cilk-5 multithreaded language.
 
 * https://www.meetup.com/Papers-we-love-Zurich/events/238755473/
 * Thursday, April 27, 2017 6:30 PM
-* ETH Zürich, CAB H 52
+* ETH Zürich, CAB G 52
+* [slides](2017.04.27-Cilk5/pwl-cilk5.pdf)
 
 This time we are going to talk about an older paper. Published in 1998 by Matteo
 Frigo, Charles E. Leiserson, and Keith H. Randall,  The implementation of the
@@ -37,8 +40,6 @@ Cilk-5 multithreaded language
 parallel programs and building a run-time system that efficiently executes them.
 The paper is strongly motivated by theory, but also very practical. Many of the
 techniques and approaches used in the paper are (I think) still relevant today.
-
-### Past meetups
 
 #### Naiad: A Timely Dataflow System
 
