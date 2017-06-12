@@ -24,6 +24,22 @@ posting events, etc.
 
 ### Upcoming meetups
 
+#### Animesh Trivedi on Raft: In Search of an Understandable Consensus Algorithm
+
+* https://www.meetup.com/Papers-we-love-Zurich/events/240580418/
+* Thursday, June 29, 2017 6:30 PM
+* ETH Zürich, CAB H 52
+
+This time around we are going to discuss the Raft distributed consensus
+algorithm from Diego Ongaro and John Ousterhout. The paper was originally
+published at USENIX ATC'14 and was awarded the best paper. Since then, the
+algorithm has been a part of teaching at many universities, has had many
+open-sourced implementations in multiple languages, and has found its way into
+production-level codes. This instantaneous acceptance into the systems building
+community raises an interesting question about what makes Raft so approachable
+than in comparison to others options, most notably Paxos? I will present my
+impressions of the paper and what makes it an interesting read.
+
 ### Past meetups
 
 #### The implementation of the Cilk-5 multithreaded language.
