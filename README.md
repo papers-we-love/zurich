@@ -24,6 +24,20 @@ posting events, etc.
 
 ### Upcoming meetups
 
+#### Natallie Baikevich on Automatic Construction of Inlining Heuristics using Machine Learing
+
+* https://www.meetup.com/Papers-we-love-Zurich/events/242544627/
+* Thursday, September 14, 2017 6:30 PM
+* ETH Zürich, CAB H53
+* [paper](https://www.eecis.udel.edu/~skulkarn/papers/cgo-2013.pdf)
+
+Method inlining is a very important but also dangerous compiler optimization: an
+inlining decision might lead to significant speedup or performance degradation
+and has to be constructed carefully. The paper compares various features and
+inlining techniques, in particular neuro-evolution. We will also discuss how
+having an idea about inlining traps and benefits might come useful in the
+"real-world", where not everybody is a compiler developer.
+
 
 ### Past meetups
 
