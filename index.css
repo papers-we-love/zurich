@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #00203F;
+}
+
+.hero {
+  /* background-color: #9DCFFF; */
+  padding: 60pt 60pt 150pt 60pt;
+  position: relative;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-image: url(assets/zurich.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  filter: brightness(0.6);
+}
+
+.hero > .logo {
+  width: 800px;
+  margin: 0 auto;
+  position: relative;
+  background-color: white;
+  padding: 12px;
+  padding-bottom: 2px;
+}
+
+.hero > .logo > img {
+  width: 100%;
+}
+
+.hero > .logo > .zurich {
+  color: white;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 100pt;
+  line-height: 60pt;
+  position: absolute;
+  left: 28%;
+  top: 100%;
+  transform: rotate(-10deg);
+  padding: 8pt;
+}
+
+.next-event, .content, .contact, .credits {
+  width: 60%;
+  margin: 20pt auto;
+  padding: 10pt
+}
+
+.content {
+  margin-top: 0;
+}
+
+.content > p, .contact {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18pt;
+}
+
+.content > p {
+  text-align: justify;
+}
+
+.content > p:first-of-type {
+  font-size: 26pt;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact > a {
+  color: white;
+  text-decoration: none;
+}
+
+.contact > a:hover {
+  text-decoration: underline;
+}
+
+.next-event {
+  color: white;
+  font-size: 23pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  bottom: -40pt;
+  left: 20pt;
+  right: 20pt;
+}
+
+
+.credits {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.credits > a {
+  color: white;
+  text-decoration: none;
+}
+
+.credits > a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 700px) and (max-width: 900px) {
+  .hero > .logo > .zurich {
+    font-size: 70pt;
+    top: 90%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .hero > .logo > .zurich {
+    font-size: 50pt;
+    top: 80%;
+  }
+}
+
+
+@media screen and (min-width: 500px) and (max-width: 1000px) {
+  .next-event, .content, .contact, .credits {
+    width: 80%;
+  }
+  .hero > .logo {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .hero {
+    padding: 60px 20px 120px 20px;
+    margin: 0 auto;
+  }
+  .hero > .logo {
+    width: 350px;
+  }
+  .hero > .logo > .zurich {
+    font-size: 40pt;
+    top: 70%;
+  }
+  .next-event, .content, .contact, .credits {
+    width: 80%;
+  }
+  .content > p, .contact {
+    font-size: 12pt;
+  }
+  .content > p:first-of-type {
+    font-size: 18pt;
+  }
+}
