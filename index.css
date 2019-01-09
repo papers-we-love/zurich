@@ -70,6 +70,10 @@ body {
   font-size: 26pt;
 }
 
+.content a {
+  color: white;
+}
+
 .contact {
   text-align: center;
 }
