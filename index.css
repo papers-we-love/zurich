@@ -52,6 +52,10 @@ body {
   padding: 10pt
 }
 
+.next-event a {
+  color: white;
+}
+
 .content {
   margin-top: 0;
 }
