@@ -8,5 +8,5 @@ this page and doing a pull request.
 3. [Compiler Verification - Compcert](https://dl.acm.org/doi/pdf/10.1145/1111320.1111042)
 4. Symbolic Verification of cryptographic protocols
 5. Paxos, Raft, etc.
-6. Property-based testing
+6. [Property-based testing](https://arxiv.org/abs/2508.14394)
 7. [The MLIR Paper](https://arxiv.org/pdf/2002.11054) - Abhiroop volunteers to present this, but maybe not at the earliest meetups
