@@ -13,3 +13,4 @@ this page and doing a pull request.
 8. Meltdown/Spectre
 9. Databases
 10. Concurrency/Distributed Systems - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf), [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf), [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+11. [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746)
