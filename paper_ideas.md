@@ -12,3 +12,4 @@ this page and doing a pull request.
 7. [The MLIR Paper](https://arxiv.org/pdf/2002.11054) - Abhiroop volunteers to present this, but maybe not at the earliest meetups
 8. Meltdown/Spectre
 9. Databases
+10. Concurrency/Distributed Systems - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf), [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf), [Bitcoin](https://bitcoin.org/bitcoin.pdf)
