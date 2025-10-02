@@ -10,3 +10,5 @@ this page and doing a pull request.
 5. Paxos, Raft, etc.
 6. [Property-based testing](https://arxiv.org/abs/2508.14394)
 7. [The MLIR Paper](https://arxiv.org/pdf/2002.11054) - Abhiroop volunteers to present this, but maybe not at the earliest meetups
+8. Meltdown/Spectre
+9. Databases
