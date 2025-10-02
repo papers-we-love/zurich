@@ -16,6 +16,7 @@ this page and doing a pull request.
       - [Meltdown](https://meltdownattack.com/meltdown.pdf) / [Spectre](https://spectreattack.com/spectre.pdf)
       - [ASLR on the Line: Practical Cache Attacks on the MMU](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_09-1_Gras_paper.pdf)
       - [Return to libc](https://dl.acm.org/doi/pdf/10.1145/1315245.1315313)
+      - [Rowhammer](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf)
 9. Databases
 10. Concurrency/Distributed Systems 
       - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) 
