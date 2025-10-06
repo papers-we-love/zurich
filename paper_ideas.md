@@ -29,6 +29,6 @@ If you are interested in talking about the paper, please let us know by modifyin
       - [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf) 
 10. Machine Learning
       - [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746)
-      - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+      - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (The Transformers paper)
 11. Programming Language Theory
       - [Definitional Interpreters for Higher-Order Programming Languages](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-definitional-interpreters-1998.pdf)
