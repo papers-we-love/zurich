@@ -13,6 +13,7 @@ If you are interested in talking about the paper, please let us know by modifyin
 3. Formal Verification
      - [Compcert](https://dl.acm.org/doi/pdf/10.1145/1111320.1111042)
      - [seL4](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
+     - [Forward and Backward Simulations](https://www.sciencedirect.com/science/article/pii/S0890540185711340?via%3Dihub)
 4. Symbolic Verification of Cryptographic Protocols
 5. Property-based Testing
      - [Property-Based Testing as Probabilistic Programming](https://arxiv.org/abs/2508.14394)
