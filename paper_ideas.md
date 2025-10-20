@@ -31,5 +31,6 @@ If you are interested in talking about the paper, please let us know by modifyin
 10. Machine Learning
       - [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746)
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (The Transformers paper)
+      - [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767)
 11. Programming Language Theory
       - [Definitional Interpreters for Higher-Order Programming Languages](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-definitional-interpreters-1998.pdf)
