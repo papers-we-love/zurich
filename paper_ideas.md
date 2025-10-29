@@ -24,6 +24,7 @@ If you are interested in talking about the paper, please let us know by modifyin
       - [ASLR on the Line: Practical Cache Attacks on the MMU](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_09-1_Gras_paper.pdf)
       - [Return to libc](https://dl.acm.org/doi/pdf/10.1145/1315245.1315313)
       - [Rowhammer](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf)
+      - [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) - Abhiroop volunteers to present this
 8. Databases
 9. Concurrency Theory  
       - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) 
