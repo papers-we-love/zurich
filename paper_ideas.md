@@ -19,6 +19,7 @@ If you are interested in talking about the paper, please let us know by modifyin
      - [Property-Based Testing as Probabilistic Programming](https://arxiv.org/abs/2508.14394)
 6. Compilers
      - [The MLIR Paper](https://arxiv.org/pdf/2002.11054) - Abhiroop volunteers to present this, but maybe not at the earliest meetups
+     - [From System F to Typed Assembly Language](https://www.cs.princeton.edu/~dpw/papers/tal-toplas.pdf)
 7. Security (Attacks)
       - [Meltdown](https://meltdownattack.com/meltdown.pdf) / [Spectre](https://spectreattack.com/spectre.pdf)
       - [ASLR on the Line: Practical Cache Attacks on the MMU](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_09-1_Gras_paper.pdf)
