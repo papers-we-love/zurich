@@ -10,6 +10,7 @@ If you are interested in talking about the paper, please let us know by modifyin
 2. Linear logic, ownership types, and affine types
      - [Linear Haskell](https://arxiv.org/pdf/1710.09756)
      - [Ownership Type: A Survey](https://ilyasergey.net/papers/ownership-survey.pdf)
+     - [Ownership Types in Rust](https://dl.acm.org/doi/pdf/10.1145/3622841)
 3. Formal Verification
      - [Compcert](https://dl.acm.org/doi/pdf/10.1145/1111320.1111042)
      - [seL4](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
