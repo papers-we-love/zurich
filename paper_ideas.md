@@ -37,3 +37,4 @@ If you are interested in talking about the paper, please let us know by modifyin
       - [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767)
 11. Programming Language Theory
       - [Definitional Interpreters for Higher-Order Programming Languages](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-definitional-interpreters-1998.pdf)
+      - [Propositions as Types](https://www.pure.ed.ac.uk/ws/files/20001186/propositions_as_types.pdf)
