@@ -1,10 +1,10 @@
 title: "Papers We Love Zürich"
 description: "A Papers We Love chapter in Zürich, Switzerland."
 
-# If you publish this repo as a *project* site (https://<user>.github.io/<repo>/),
-# set baseurl to "/<repo>".
-baseurl: ""
-url: ""
+# If you publish this repo as a *project* site (e.g. https://paperswelove.org/zurich/),
+# set baseurl to "/zurich".
+baseurl: "/zurich"
+url: "https://paperswelove.org"
 
 permalink: pretty
 markdown: kramdown

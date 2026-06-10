@@ -16,7 +16,7 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous">
 
-  <link rel="stylesheet" href="/assets/css/pwl.css" />
+  <link rel="stylesheet" href="/zurich/assets/css/pwl.css" />
 
   <link rel="icon" href="data:," />
 </head>
@@ -24,7 +24,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark pwl-navbar">
   <div class="container">
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" href="/zurich/">
       <span class="pwl-brand">Papers We Love</span>
       <span class="pwl-brand-city">Zürich</span>
     </a>
@@ -37,10 +37,10 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="/paper-ideas/">Paper Ideas</a>
+          <a class="nav-link" href="/zurich/paper-ideas/">Paper Ideas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/papers/">Past Papers</a>
+          <a class="nav-link" href="/zurich/papers/">Past Papers</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.meetup.com/Papers-we-love-Zurich/" target="_blank" rel="noopener">Meetup</a>
@@ -84,13 +84,13 @@ To add a new event, open a PR updating that file.</p>
 </noscript>
 
 <script>
-  window.PWL_BASEURL = "";
+  window.PWL_BASEURL = "/zurich";
   window.PWL_PAPERS = [{"id":"naiad-2017-03","title":"Naiad: A Timely Dataflow System","paper_url":"https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/naiad_sosp13.pdf","slides_url":"2017.03.26-Naiad/naiad-pwl-zurich.pdf","meetup_url":"https://www.meetup.com/Papers-we-love-Zurich/events/237963794/","event_title":"Naiad: A Timely Dataflow System","event_date":"2017-03-23","event_year":"2017","location":"ETH Zürich, CAB H 52","presenter":"Andrea Lattuada","topic":["Distributed systems","Dataflow"],"description":"This paper proposes a computational model for timely dataflow programming that minimises unnecessary synchronisation and can serve as a foundation for interoperable data-processing frameworks."},{"id":"cilk5-2017-04","title":"The implementation of the Cilk-5 multithreaded language","paper_url":"http://supertech.csail.mit.edu/papers/cilk5.pdf","slides_url":"2017.04.27-Cilk5/pwl-cilk5.pdf","meetup_url":"https://www.meetup.com/Papers-we-love-Zurich/events/238755473/","event_title":"The implementation of the Cilk-5 multithreaded language","event_date":"2017-04-27","event_year":"2017","location":"ETH Zürich, CAB G 52","presenter":"Unknown","topic":["Concurrency","Runtimes"],"tags":["work-stealing","parallelism","scheduling"],"description":"A classic paper on expressing parallel programs and building a run-time system that efficiently executes them; theory-motivated but highly practical."},{"id":"raft-2017-06","title":"Raft: In Search of an Understandable Consensus Algorithm","paper_url":"https://raft.github.io/raft.pdf","slides_url":"2017.06.29-Raft/pwl-raft-trivedi.pdf","meetup_url":"https://www.meetup.com/Papers-we-love-Zurich/events/240580418/","event_title":"Raft","event_date":"2017-06-29","event_year":"2017","location":"ETH Zürich, CAB H 52","presenter":"Animesh Trivedi","topic":["Distributed systems","Consensus"],"description":"A discussion of the Raft consensus algorithm (USENIX ATC'14) and what makes it more approachable than alternatives such as Paxos."},{"id":"inlining-2017-09","title":"Automatic Construction of Inlining Heuristics using Machine Learning","paper_url":"https://www.eecis.udel.edu/~skulkarn/papers/cgo-2013.pdf","slides_url":"https://www.slideshare.net/luajalla/inlining-heuristics","meetup_url":"https://www.meetup.com/Papers-we-love-Zurich/events/242544627/","event_title":"Automatic Construction of Inlining Heuristics using Machine Learning","event_date":"2017-09-14","event_year":"2017","location":"ETH Zürich, CAB H53","presenter":"Natallie Baikevich","topic":["Compilers","Machine learning"],"description":"Method inlining is a high-impact but risky compiler optimisation. The paper explores features and ML-based techniques (including neuro-evolution) for constructing inlining heuristics."}];
   // Exclude the presenter and tags fields from the filter UI.
   window.PWL_FIELDS = [{"key":"topic","label":"Topic"},{"key":"event_year","label":"Event year"}];
 </script>
 
-<script src="/assets/js/papers.js"></script>
+<script src="/zurich/assets/js/papers.js"></script>
 
 
     </main>
@@ -106,7 +106,7 @@ To add a new event, open a PR updating that file.</p>
       <div>
         <div class="fw-semibold">Links</div>
         <ul class="list-unstyled mb-0">
-          <li><a href="/code-of-conduct.md">Code of Conduct</a></li>
+          <li><a href="/zurich/code-of-conduct.md">Code of Conduct</a></li>
           <li><a href="https://github.com/papers-we-love/papers-we-love" target="_blank" rel="noopener">Papers We Love (main)</a></li>
           <li><a href="https://github.com/papers-we-love/zurich/edit/master/paper_ideas.md">Edit Paper Ideas</a> (PRs welcome)</li>
         </ul>
