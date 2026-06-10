@@ -1,6 +1,13 @@
-### Paper suggestions and ideas
+---
+layout: default
+title: "Paper Ideas"
+permalink: /paper-ideas/
+---
 
-If you are interested in talking about the paper, please let us know by modifying this page and doing a pull request.
+# Paper Ideas
+---
+
+If you are interested in talking about a paper, please let us know by modifying this file (`/papers_ideas.md`) and opening a pull request.
 
 1. Distributed Systems
      - [Time, Clocks and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
@@ -28,9 +35,9 @@ If you are interested in talking about the paper, please let us know by modifyin
       - [Rowhammer](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf)
       - [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) - Abhiroop volunteers to present this
 8. Databases
-9. Concurrency Theory  
-      - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) 
-      - [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf) 
+9. Concurrency Theory
+      - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
+      - [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf)
 10. Machine Learning
       - [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746)
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (The Transformers paper)

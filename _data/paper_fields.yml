@@ -1,0 +1,15 @@
+# Filterable fields for the "Past Papers" page.
+#
+# Keys must match fields in _data/papers.yml.
+
+- key: topic
+  label: Topic
+
+- key: tags
+  label: Tags
+
+- key: presenter
+  label: Presenter
+
+- key: event_year
+  label: Event year
