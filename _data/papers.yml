@@ -35,10 +35,6 @@
   topic:
     - "Concurrency"
     - "Runtimes"
-  tags:
-    - "work-stealing"
-    - "parallelism"
-    - "scheduling"
   description: >-
     A classic paper on expressing parallel programs and building a run-time
     system that efficiently executes them; theory-motivated but highly practical.

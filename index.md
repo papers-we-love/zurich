@@ -14,6 +14,7 @@ permalink: /
 </div>
 
 ## How it works
+---
 
 - We pick a paper and/or a small set of related papers.
 - Someone volunteers to present a guided tour of the ideas.
@@ -21,15 +22,18 @@ permalink: /
 - Potentially, the previous step happens over some snacks and refreshment ☕️ 🥨 🍪
 
 ## How to participate
+---
 
 As a volunteer event, we are always looking for eager participants. If you'd like to present, propose a paper idea via a pull request to [`paper_ideas.md`]({{ site.github.repository_url }}/blob/master/paper_ideas.md), or feel free to pick anything from our amazing list!
 
 ## Useful links
+---
 
 - [Paper Ideas]({{ "/paper-ideas/" | relative_url }})
 - [Past papers]({{ "/papers/" | relative_url }})
 
 ## Organizers
+---
 
 <div class="row g-3">
   <div class="col-12 col-sm-6">
@@ -48,9 +52,11 @@ As a volunteer event, we are always looking for eager participants. If you'd lik
 </div>
 
 ## Sponsorship
+---
 
 We try to keep events accessible and free to attend. If you would like to sponsor venue costs or refreshments for a meetup, please reach out via the <a href="https://www.meetup.com/Papers-we-love-Zurich/">Meetup</a> page, or just drop us an e-mail!
 
 ## Code of Conduct
+---
 
 We follow the Papers We Love [Code of Conduct]({{ "/code-of-conduct.md" | relative_url }}).
