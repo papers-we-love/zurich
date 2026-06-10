@@ -3,7 +3,7 @@ description: "A Papers We Love chapter in Zürich, Switzerland."
 
 # If you publish this repo as a *project* site (e.g. https://paperswelove.org/zurich/),
 # set baseurl to "/zurich".
-baseurl: "/zurich"
+baseurl: "chapter/zurich"
 url: "https://paperswelove.org"
 
 permalink: pretty
