@@ -96,7 +96,7 @@
 - id: owner-2026-04
   title: "Ownership Types in Rust"
   paper_url: "https://arxiv.org/abs/2309.04134"
-  slides_url: "https://abhiroop.github.io/slides/Automatic%20Differentiation.pdf"
+  slides_url: "2026.04.30-Rust/ownership.pdf"
   meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/313294681/"
   event_title: "Ownership Types in Rust"
   event_date: "2026-04-30"
