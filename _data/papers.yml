@@ -92,3 +92,21 @@
     exact derivatives of numeric functions expressed as programs. 
     Backpropagation is the same idea, specialised to neural networks, 
     used to compute gradients of the loss during training of the vast majority of ML models.
+
+- id: owner-2026-04
+  title: "Ownership Types in Rust"
+  paper_url: "https://arxiv.org/abs/2309.04134"
+  slides_url: "https://abhiroop.github.io/slides/Automatic%20Differentiation.pdf"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/313294681/"
+  event_title: "Ownership Types in Rust"
+  event_date: "2026-04-30"
+  event_year: "2026"
+  location: "ETH Zürich, CAB G52"
+  presenter: "Daniel Galán Pascual"
+  topic:
+    - "Compilers"
+    - "Type System"
+  description: >-
+    Ownership types are what give Rust its memory safety guarantees;the compiler 
+    statically rules out entire classes of bugs (use-after-free, data races, dangling pointers) 
+    with no garbage collector and no runtime cost. The paper provides a conceptual model of this type system.
