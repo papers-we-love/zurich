@@ -73,3 +73,22 @@
     Method inlining is a high-impact but risky compiler optimisation. The paper
     explores features and ML-based techniques (including neuro-evolution) for
     constructing inlining heuristics.
+
+- id: ad-2025-11
+  title: "Automatic Differentiation in ML and AI : A Programmer's Perspective"
+  paper_url: "https://arxiv.org/abs/1502.05767"
+  slides_url: "https://abhiroop.github.io/slides/Automatic%20Differentiation.pdf"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/311640919/"
+  event_title: "Automatic Differentiation in ML and AI : A Programmer's Perspective"
+  event_date: "2025-11-20"
+  event_year: "2025"
+  location: "ETH Zürich, CAB G56"
+  presenter: "Abhiroop Sarkar"
+  topic:
+    - "Compilers"
+    - "Machine learning"
+  description: >-
+    Automatic Differentiation (AD) — the generalisation of backpropagation — computes fast, 
+    exact derivatives of numeric functions expressed as programs. 
+    Backpropagation is the same idea, specialised to neural networks, 
+    used to compute gradients of the loss during training of the vast majority of ML models.
