@@ -16,8 +16,8 @@ If you are interested in talking about a paper, please let us know by modifying 
      - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 2. Linear logic, ownership types, and affine types
      - [Linear Haskell](https://arxiv.org/pdf/1710.09756)
-     - [Ownership Type: A Survey](https://ilyasergey.net/papers/ownership-survey.pdf)
-     - [Ownership Types in Rust](https://dl.acm.org/doi/pdf/10.1145/3622841)
+     <!-- - [Ownership Type: A Survey](https://ilyasergey.net/papers/ownership-survey.pdf)
+     - [Ownership Types in Rust](https://dl.acm.org/doi/pdf/10.1145/3622841) -->
 3. Formal Verification
      - [Compcert](https://dl.acm.org/doi/pdf/10.1145/1111320.1111042)
      - [seL4](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
@@ -39,9 +39,9 @@ If you are interested in talking about a paper, please let us know by modifying 
       - [Linearizability](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
       - [Sequential Consistency versus Linearizability](https://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf)
 10. Machine Learning
-      - [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746)
+      <!-- - [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746) -->
       - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (The Transformers paper)
-      - [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767)
+      <!-- - [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/pdf/1502.05767) -->
 11. Programming Language Theory
       - [Definitional Interpreters for Higher-Order Programming Languages](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-definitional-interpreters-1998.pdf)
-      - [Propositions as Types](https://www.pure.ed.ac.uk/ws/files/20001186/propositions_as_types.pdf)
+      <!-- - [Propositions as Types](https://www.pure.ed.ac.uk/ws/files/20001186/propositions_as_types.pdf) -->

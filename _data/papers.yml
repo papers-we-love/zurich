@@ -107,6 +107,26 @@
     - "Compilers"
     - "Type System"
   description: >-
-    Ownership types are what give Rust its memory safety guarantees;the compiler 
-    statically rules out entire classes of bugs (use-after-free, data races, dangling pointers) 
+    Ownership types are what give Rust its memory safety guarantees;the compiler
+    statically rules out entire classes of bugs (use-after-free, data races, dangling pointers)
     with no garbage collector and no runtime cost. The paper provides a conceptual model of this type system.
+
+- id: proptypes-2026-07
+  title: "Propositions as Types"
+  paper_url: "https://www.pure.ed.ac.uk/ws/files/20001186/propositions_as_types.pdf"
+  slides_url: "2026.07.24-PropAsTyp/props-as-types.html"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/315271875/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=378334684"
+  event_title: "Propositions as Types"
+  event_date: "2026-07-24"
+  event_year: "2026"
+  location: "ETH Zürich, CAB G52"
+  presenter: "Dhruv Nevatia"
+  topic:
+    - "Type System"
+    - "Logic"
+  description: >-
+    The Curry-Howard correspondence — "propositions as types" — reveals a deep
+    three-way isomorphism between logic, computation, and category theory: propositions
+    are types, proofs are programs, and simplification of proofs is evaluation of programs.
+    Wadler traces this idea through the history of programming languages, and the talk also
+    looks into a preliminary notion of automated program synthesis.
