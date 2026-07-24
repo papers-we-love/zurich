@@ -1,1 +1,15 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler / Ruby gems
+.bundle/
+vendor/
+
+# Scratch
 tmp/
+
+# macOS
+.DS_Store
