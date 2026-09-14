@@ -130,3 +130,24 @@
     are types, proofs are programs, and simplification of proofs is evaluation of programs.
     Wadler traces this idea through the history of programming languages, and the talk also
     looks into a preliminary notion of automated program synthesis.
+
+- id: techprogverif-2026-08
+  title: "Techniques for Program Verification"
+  paper_url: "https://people.eecs.berkeley.edu/~necula/Papers/nelson-thesis.pdf"
+  slides_url: "2026.08.26-TechForProgVerif/slides.pdf"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/316048029/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=378334684"
+  event_title: "Techniques for Program Verification"
+  event_date: "2026-08-26"
+  event_year: "2026"
+  location: "ETH Zürich, CAB G56"
+  presenter: "George Zakhour"
+  topic:
+    - "Verification"
+    - "Logic"
+  description: >-
+    Greg Nelson's 1980 thesis is an ancestor of every modern SMT solver. Verifying a program
+    means discharging formulas that mix arrays, linear arithmetic, booleans, quantifiers,
+    equality and uninterpreted functions — each with its own decision procedure. Nelson-Oppen
+    combination makes those procedures cooperate rather than demanding one theory for all of them,
+    and the E-graph, the thesis' structure for congruence closure, still shows up today in solvers
+    and in equality saturation for optimising compilers. The talk also live-codes an e-graph.
