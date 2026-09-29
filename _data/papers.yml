@@ -151,3 +151,23 @@
     combination makes those procedures cooperate rather than demanding one theory for all of them,
     and the E-graph, the thesis' structure for congruence closure, still shows up today in solvers
     and in equality saturation for optimising compilers. The talk also live-codes an e-graph.
+
+
+- id: linearhaskell-2026-09
+  title: "Catching Resource Bugs at Compile Time!"
+  paper_url: "https://arxiv.org/pdf/1710.09756"
+  slides_url: "2026.09.21-LinearHaskell/slides.pdf"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/316371130/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=174481412"
+  event_title: "Catching Resource Bugs at Compile Time!"
+  event_date: "2026-09-21"
+  event_year: "2026"
+  location: "ETH Zürich, HG G 26.5"
+  presenter: "Olivier Burger"
+  topic:
+    - "Programming Languaes"
+    - "Logic"
+    - "Type System"
+  description: >-
+    Linear Types form a type system paradigm that tracks resource usage (like file handles, memory pointers, etc) and rules out violations at compile time, already found in mainstream languages like Rust. Haskell is a strongly typed functional programming language used in high-assurance software.
+
+    A priori, Haskell's type system said nothing about how many times a value is used; linear types add exactly that. A function can require its argument to be consumed exactly once. This is enough to encode resource protocols in types, so using an array after it has been frozen, or a handle after it has been closed, becomes a type error instead of a runtime one.
