@@ -171,3 +171,21 @@
     Linear Types form a type system paradigm that tracks resource usage (like file handles, memory pointers, etc) and rules out violations at compile time, already found in mainstream languages like Rust. Haskell is a strongly typed functional programming language used in high-assurance software.
 
     A priori, Haskell's type system said nothing about how many times a value is used; linear types add exactly that. A function can require its argument to be consumed exactly once. This is enough to encode resource protocols in types, so using an array after it has been frozen, or a handle after it has been closed, becomes a type error instead of a runtime one.
+
+- id: frontrunning-2026-10
+  title: "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus"
+  paper_url: "https://arxiv.org/abs/1904.05234"
+  slides_url: "2026.10.29-Frontrunning/pwl-final-simran-oct-29.pdf"
+  meetup_url: "https://www.meetup.com/papers-we-love-zurich/events/316754646/"
+  event_title: "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus"
+  event_date: "2026-10-29"
+  event_year: "2026"
+  location: "ETH Zürich, CAB G52"
+  presenter: "Simran Tinani"
+  topic:
+    - "Blockchain"
+    - "Ethereum"
+    - "Frontrunning attacks"
+  description: >-
+    The talk walks through how frontrunning attacks such as DEX arbitrage, sandwich attacks, and the fee-bidding wars known as Priority Gas Auctions manifest in Decentralised Finance markets based on Ethereum.
+    It also describes how financial bots operate on Ethereum and why the revenue they extract, Miner Extractable Value (MEV), can give block producers a reason to fork the chain and rewrite history.
